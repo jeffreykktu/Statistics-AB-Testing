@@ -1,4 +1,4 @@
-# A/B Testing
+# Designing Cancellation Policy - Statistical Analysis of AB Testing data
 ## Objective: 
 Given AB Testing ride data, design a ride cancellation policy for rider.
 
